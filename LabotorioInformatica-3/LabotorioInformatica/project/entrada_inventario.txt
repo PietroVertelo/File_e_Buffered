@@ -1,0 +1,5 @@
+E,101,Epson
+C,202,Dell,i7,16GB
+E,103,Logitech
+C,204,Lenovo,Ryzen 5,8GB
+X,999,ErroProposital
